@@ -67,3 +67,11 @@ The dashboard helps business users monitor sales performance, identify trends, c
 # Author
 
 D Sagar Raj
+
+# Connect with Me
+
+- **GitHub:** https://github.com/SagarRaj-17
+
+---
+
+⭐ If you found this project helpful or interesting, feel free to star the repository!
