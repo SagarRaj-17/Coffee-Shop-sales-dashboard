@@ -37,6 +37,25 @@ The dashboard helps business users monitor sales performance, identify trends, c
 - Weekends outperformed weekdays.
 - Store performance varied across locations.
 
+# SQL Concepts Used
+
+- GROUP BY
+- ORDER BY
+- CASE
+- CTEs
+- Window Functions (LAG)
+- Aggregate Functions
+- Date Functions
+  
+## DAX Measures
+
+- Total Sales
+- Total Orders
+- Total Quantity
+- Average Sales
+- MTD
+- YTD
+- MoM Growth
 
 # Files Included
 
@@ -47,6 +66,4 @@ The dashboard helps business users monitor sales performance, identify trends, c
 
 # Author
 
-D Sagar Raj 
-|
-Aspiring Data Analyst
+D Sagar Raj
